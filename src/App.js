@@ -10,7 +10,7 @@ class App extends Component {
             <img src="./images/small_logo.svg" width="200" alt="logo" />
             <div>
               <ul>
-                <li><a >HOME</a></li>
+                <li><a>HOME</a></li>
                 <li><a>LITEPAPER</a></li>
                 <li><a href="https://github.com/cashplace">CODE</a></li>
                 <li><a>MATRIX</a></li>
