@@ -21,8 +21,8 @@ class App extends Component {
 
         <section id="main">
           <div className="main-text">
-            <span>cash.place</span> <br /> A safe place for <br />
-            your digital cash.
+            <span>cash.place</span> <br /> A safe place to <br />
+            spend your digital cash.
           </div>
 
           <img src="./images/full_logo.svg" width="520" alt="leaf-main-image" />
