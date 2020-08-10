@@ -11,7 +11,7 @@ class App extends Component {
             <div>
               <ul>
                 <li><a>HOME</a></li>
-                <li><a>LITEPAPER</a></li>
+                <li><a href="./litepaper.html">LITEPAPER</a></li>
                 <li><a href="https://github.com/cashplace">CODE</a></li>
                 <li><a>MATRIX</a></li>
               </ul>
